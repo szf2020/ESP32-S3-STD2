@@ -1,6 +1,6 @@
 # ESP32-S3-STD2
 
-ESP32-S3-STD2 is a closed-loop controller based on the ESP32-S3 series. A TMC2209 dev board can be connected to control a stepper motor. An on-board encoder provides feedback for precise position control and an addressable RGB LED adds a visual feature for debugging.<br>
+ESP32-S3-STD2 is a closed-loop controller based on the ESP32-S3 series. A TMC2209 dev board can be connected to control a stepper motor. An on-board encoder provides feedback for precise position control and an addressable RGB LED adds a visual feature for debugging. The board can be attached to the back of a Nema 17 Stepper motor.<br>
 
 <img src='/PCB_TopView.JPG' width='350'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='/PCB_BottomView.JPG' width='350'><br>
 
