@@ -30,4 +30,4 @@ Headers are present on the board to connect a TMC2209 dev board or an equivalent
 
 &nbsp;<br>
 ### AZ1117 3.3V regulator
-This SMD 3.3V regulator powers the ESP32 and the other components. The board is powered by either the V-BUS (5Vdc) of the USB-C or the VCC connection for the motor (Maximum 15Vdc). If both supplies are connected at the same time, the highest voltage rules.
+This SMD 3.3V regulator powers the ESP32 and the other components. The board is powered by either the V-BUS (5Vdc) of the USB-C or the VCC connection for the motor (Maximum 15Vdc). If both supplies are connected at the same time, the highest voltage rules.<br>
