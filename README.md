@@ -20,7 +20,7 @@ The AS5600L is a magnetic rotary position sensor and is used with a radial magne
 &nbsp;<br>
 ## WS2812B addressable LED
 
-WS2812B is an addressable LED that has a control circuit and RGP chip. This visual feature is useful for debugging and testing the basic functionalities of the circuit board.<br>
+WS2812B is an addressable LED that has a control circuit and RGB chip integrated. This visual feature is useful for debugging and testing the basic functionalities of the circuit board.<br>
 
 
 &nbsp;<br>
