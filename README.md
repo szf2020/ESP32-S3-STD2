@@ -1,2 +1,2 @@
 # ESP32-S3-STD2
-Closed-Loop Stepper Controller
+<span style="color":"white">Closed-Loop Stepper Controller</span>
